@@ -16,6 +16,7 @@ module.exports = (wallaby) => {
         },
         module: {
           rules: [
+            //{test: /\.js$/, loader: 'babel-loader' },
             {test: /\.html$/i, loader: 'html-loader'},
             {test: /\.css$/i, issuer: [{not: [{test: /\.html$/i}]}], use: ['style-loader', 'css-loader']},
             {test: /\.css$/i, issuer: [{test: /\.html$/i}], use: 'css-loader'},
