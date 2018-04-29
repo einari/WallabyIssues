@@ -21,7 +21,7 @@
     "webpack": "^4.6.0"
   },
   "dependencies": {
-    "@dolittle/commands": "^1.0.4",
+    "@dolittle/commands": "^1.0.5",
     "@dolittle/queries": "^1.0.4",
     "aurelia-http-client": "^1.2.1"
   }

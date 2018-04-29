@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@dolittle/commands@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@dolittle/commands/-/commands-1.0.4.tgz#afe8dfbc14c1d569a72191eda95db4b8114666b1"
+"@dolittle/commands@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@dolittle/commands/-/commands-1.0.5.tgz#84fb52c8f26bee68b21618d167b0f8009a5ef309"
   dependencies:
     "@dolittle/core" "1.0.0"
 
